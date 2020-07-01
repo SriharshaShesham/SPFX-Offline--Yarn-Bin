@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@microsoft/generator-sharepoint": "^1.10.0",
+    "core-js": "^3",
+    "gulp": "^4.0.2",
+    "typescript": "^3.9.5",
+    "yo": "^3.1.1"
+  }
+}
